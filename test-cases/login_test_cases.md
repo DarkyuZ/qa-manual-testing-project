@@ -13,5 +13,4 @@ Expected result:
 Actual result:
 -User should  be redirected to secure area  page and succes message is shown.
 
-Status:
-PASS.
+Status: PASS.

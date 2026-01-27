@@ -1,6 +1,20 @@
 Title:
+Login error message is not specific
+
 Description:
-Step to Reproduce: 
-Expected result: 
-Actual result:
+When the user enters incorrect credentials, the system displays a generic error message that does not indicate which field is incorrect.
+
+Steps to Reproduce:
+1. Go to login page
+2. Enter invalid username
+3. Enter valid password
+4. Click Login button
+
+Expected Result:
+System should indicate whether the username or password is incorrect.
+
+Actual Result:
+System displays generic error message without specifying the incorrect field.
+
 Severity:
+Low
