@@ -39,6 +39,12 @@ Each bug report also includes:
 - Actual result
 - Severity level
 
+ Testing Scope
+
+- Login functionality
+- Input validation
+- Error message validation
+- User authentication flow
 
 Author
 
