@@ -8,6 +8,12 @@ The project simulates real-world QA documentation used in professional software 
 It demonstrates my ability to design test cases, execute manual test scenarios, identify defects, and document findings following industry standards.
 
 
+- Validate login functionality using manual testing techniques  
+- Design and execute positive and negative test scenarios  
+- Identify functional defects and document them professionally  
+- Demonstrate structured QA documentation standards  
+- Practice version control workflow using Git and GitHub  
+
 
 # Project Objectives
 
@@ -101,3 +107,4 @@ Role: Junior Manual QA Tester (Portfolio Project)
 
 This project is created for educational and portfolio purposes.  
 All scenarios are simulated to demonstrate QA practices and documentation skills.
+
