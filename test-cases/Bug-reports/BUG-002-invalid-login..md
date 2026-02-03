@@ -21,7 +21,7 @@ BUG-002
 High
 
 ## Severity  
-Major
+Major   
 
 
 ## Description  
