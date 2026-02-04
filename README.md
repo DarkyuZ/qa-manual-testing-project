@@ -1,92 +1,64 @@
-# Manual QA Testing Project – Login Module
+Manual QA Testing Project – Login Module
+Project Overview
 
-# Project Overview
+This portfolio repository illustrates industry-recognized manual QA testing methodologies centered on a simulated login authentication module, representative of frequent real-world web application requirements.
 
-This project shows in a reliable way a real-world manual QA testing practices focused on a simulated login authentication module.
+Key Competencies
 
-It showcases:
-- Structured test case design
-- Bug reporting workflow
-- Positive and negative testing scenarios
-- QA documentation standards
-- GitHub version control usage
+Structured and systematic test case creation
+Detailed bug reporting workflow
+Coverage of positive and negative test scenarios
+Compliance with professional QA documentation standards
+Effective utilization of GitHub for version control
+Usage of Visual Studio Code to streamline the QA workflow
+Objectives
 
-This repository is designed as a junior QA portfolio project.
+Develop and organize robust manual test cases
+Authenticate login module functionality through targeted cases
+Identify, document, and communicate defects effectively
+Apply formal QA documentation procedures
+Demonstrate teamwork and version control proficiency using GitHub
+Scope of Testing
 
-# Objectives
+Verification of valid login scenarios
+Management of invalid credential inputs
+Validation of error messages for accuracy and clarity
+Input field validation
+Assessment of basic usability behaviors
+Test Artifacts
 
-- Design professional manual test cases
-- Validate login functionality behavior
-- Detect and document defects
-- Practice QA documentation workflow
-- Demonstrate version control usage
-
-
-
-# Scope of Testing
-
-- Valid login scenarios
-- Invalid credentials handling
-- Error message validation
-- Input validation
-- Basic usability behavior
-
-
-# Test Artifacts Included
-
-## Test Cases
-
-Location:
-
-test-cases/login_test_cases.md
-
-
+Test Cases
+Located at: test-cases/login_test_cases.md
 Includes:
-- Positive login scenario
-- Negative login scenario
-- Preconditions
-- Test steps
-- Expected vs Actual results
-- Status tracking
 
-
-# Bug Reports
-
-Location:
-
-bug-reports/
-
-
+Well-defined preconditions
+Step-by-step execution instructions
+Expected and actual outcomes comparison
+Status tracking for each test case
+Bug Reports
+Located at: bug-reports/
 Includes:
-- BUG-001: Sample UI validation issue
-- BUG-002: Invalid login error handling defect
 
-Each bug report contains:
-- Reproduction steps
-- Expected vs Actual behavior
-- Severity and priority
-- Environment information
+BUG-001: UI validation concern
+BUG-002: Error handling defect for invalid login
+Each report provides:
+Reproduction steps in detail
+Severity and priority evaluation
+Test environment specification
+Tools Utilized
 
-
-#  Tools Used
-
-- Manual Testing Techniques
-- Markdown Documentation
-- Git & GitHub
-- Visual Studio Code
-
-
-
-#  Author
-
-Junior QA Tester Portfolio Project  
+Manual QA testing techniques
+Markdown-based documentation for clarity and maintainability
+Git and GitHub for collaborative version control and issue tracking
+Visual Studio Code to enhance productivity
+Author
+Junior QA Tester Portfolio Project
 Created by: Alejandro Gómez Quintero
 
+Planned Enhancements
 
-
-# Future Improvements
-
-- Add registration module testing
-- Add password recovery test cases
-- Add test case matrix spreadsheet
-- Add exploratory testing report
+Implement test coverage for registration module
+Expand password recovery scenarios
+Introduce a test case traceability matrix
+Integrate exploratory testing documentation
+This project accentuates hands-on QA skills, methodical documentation, and practical experience with essential QA tools, conveying readiness for professional growth in software quality assurance.
