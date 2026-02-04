@@ -62,13 +62,5 @@ No error message is displayed when submitting the form with an empty password fi
 
 Open
 
-## Reported By  
-
-Alejandro Gomez (QA Tester)
-
-## Date  
-
-2026-02-02
-
 
 
