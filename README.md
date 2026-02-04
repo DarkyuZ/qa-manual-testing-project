@@ -1,110 +1,92 @@
-Manual QA Testing Portfolio Project
+# Manual QA Testing Project – Login Module
 
- Overview
+# Project Overview
 
-This repository contains a practical Manual Quality Assurance (QA) project focused on functional testing, negative testing scenarios, and structured bug reporting.  
-The project simulates real-world QA documentation used in professional software testing environments.
+This project shows in a reliable way a real-world manual QA testing practices focused on a simulated login authentication module.
 
-It demonstrates my ability to design test cases, execute manual test scenarios, identify defects, and document findings following industry standards.
+It showcases:
+- Structured test case design
+- Bug reporting workflow
+- Positive and negative testing scenarios
+- QA documentation standards
+- GitHub version control usage
 
+This repository is designed as a junior QA portfolio project.
 
-- Validate login functionality using manual testing techniques  
-- Design and execute positive and negative test scenarios  
-- Identify functional defects and document them professionally  
-- Demonstrate structured QA documentation standards  
-- Practice version control workflow using Git and GitHub  
+# Objectives
 
-
-# Project Objectives
-
-- Design structured manual test cases  
-- Perform positive and negative testing scenarios  
-- Identify and document software defects  
-- Practice real QA documentation workflow  
-- Use Git and GitHub for version control and collaboration simulation  
+- Design professional manual test cases
+- Validate login functionality behavior
+- Detect and document defects
+- Practice QA documentation workflow
+- Demonstrate version control usage
 
 
 
-## Scope of Testing
+# Scope of Testing
 
-The testing scope focuses on a simulated login functionality including:
-
-- Valid login scenarios  
-- Invalid credential handling  
-- Input validation  
-- Error message behavior  
-- User experience related issues  
+- Valid login scenarios
+- Invalid credentials handling
+- Error message validation
+- Input validation
+- Basic usability behavior
 
 
+# Test Artifacts Included
+
+## Test Cases
+
+Location:
+
+test-cases/login_test_cases.md
 
 
-Test Artifacts Included
-
-### Test Cases
-
-- Positive Login Test Case  
-- Negative Login Test Case (invalid credentials, empty fields, incorrect formats)  
-
-#### Bug Reports
-
-- Bug 001: Generic login error message does not specify incorrect field  
-- Bug 002: Validation or usability issue detected during testing  
-
-Each document follows a professional QA documentation structure including:
-
-- Preconditions  
-- Steps to reproduce  
-- Expected results  
-- Actual results  
-- Severity classification  
+Includes:
+- Positive login scenario
+- Negative login scenario
+- Preconditions
+- Test steps
+- Expected vs Actual results
+- Status tracking
 
 
+# Bug Reports
 
-## Tools and Technologies Used
+Location:
 
-- Manual Testing Methodology  
-- Visual Studio Code  
-- Git Version Control  
-- GitHub Repository Management  
-- Markdown Documentation  
+bug-reports/
 
 
-## Testing Methodology
+Includes:
+- BUG-001: Sample UI validation issue
+- BUG-002: Invalid login error handling defect
 
-The testing approach applied in this project includes:
+Each bug report contains:
+- Reproduction steps
+- Expected vs Actual behavior
+- Severity and priority
+- Environment information
 
-- Black-box testing techniques  
-- Boundary and negative testing  
-- Functional validation  
-- Exploratory analysis  
-- Regression awareness mindset  
+
+#  Tools Used
+
+- Manual Testing Techniques
+- Markdown Documentation
+- Git & GitHub
+- Visual Studio Code
 
 
 
-## Folder Structure
+#  Author
 
-
-## Professional Key Skills:
-
-- Manual QA Testing  
-- Test Case Design  
-- Bug Reporting and Documentation  
-- Attention to every single Detail  
-- Analytical Thinking  
-- Software Testing Fundamentals  
-- Version Control with Git  
-
-
-
-## Author
-
+Junior QA Tester Portfolio Project  
 Created by: Alejandro Gómez Quintero
-Role: Junior Manual QA Tester (Portfolio Project)  
 
 
 
-## Disclaimer
+# Future Improvements
 
-This project is created for educational and portfolio purposes.  
-All scenarios are simulated to demonstrate QA practices and documentation skills.
-
+- Add registration module testing
+- Add password recovery test cases
+- Add test case matrix spreadsheet
+- Add exploratory testing report
